@@ -5,6 +5,7 @@ Description: Pattern with packages for tomato HW Adaptation
 Name: jolla-hw-adaptation-tomato
 Requires:
 - droid-hal-tomato
+- droid-hal-tomato-detritus
 - droid-hal-tomato-img-boot
 - droid-hal-tomato-kernel-modules
 - droid-config-tomato-sailfish
